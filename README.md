@@ -19,4 +19,3 @@ This website is deployed on Netlify.
 
 ### Detail page
 ![Detail page](https://i.ibb.co/K9SYKsT/details-page.png)
-
