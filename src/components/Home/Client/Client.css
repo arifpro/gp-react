@@ -1,0 +1,47 @@
+
+/*--------------------------------------------------------------
+# Clients
+--------------------------------------------------------------*/
+.clients {
+    padding-top: 20px;
+}
+
+.clients .owl-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.clients .owl-item img {
+    width: 70%;
+    opacity: 0.5;
+    transition: 0.3s;
+    -webkit-filter: grayscale(100);
+    filter: grayscale(100);
+}
+
+.clients .owl-item img:hover {
+    -webkit-filter: none;
+    filter: none;
+    opacity: 1;
+}
+
+.clients .owl-nav, .clients .owl-dots {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.clients .owl-dot {
+    display: inline-block;
+    margin: 0 5px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #ddd !important;
+}
+
+.clients .owl-dot.active {
+    background-color: #ffc451 !important;
+}
+  
