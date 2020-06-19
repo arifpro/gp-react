@@ -14,7 +14,7 @@ This website is deployed on Netlify.
 ## Screenshots
 
 ### Home
-![home page](https://i.ibb.co/bmKr778/homepage.png)
+![home page](https://i.ibb.co/fdtpbHY/home.png)
 
 
 ### Detail page
