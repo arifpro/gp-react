@@ -1,4 +1,4 @@
-# Doctor's Portal
+# GP React
 A Bootstrap template. I done this template in React. It was given me by `Tawi Tech Solutions`.
 
 ## Deployment
