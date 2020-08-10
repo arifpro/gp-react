@@ -1,5 +1,5 @@
 # GP React
-A Bootstrap template. I done this template in React. It was given me by `Tawi Tech Solutions`.
+A Bootstrap template. I have done this template in ReactJs. It was given to me by `Tawi Tech Solutions`.
 
 ## Deployment
 This website is deployed on Netlify.
